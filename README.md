@@ -20,7 +20,7 @@ This project is a front-end design clone that visually replicates Gmail's clean 
 ## 📷 Screenshots
 
 ### Main Interface
-![Main UI Screenshot](screenshot.png)
+![Main UI Screenshot](Gmail-clone/image.png)
 
 
 ---
