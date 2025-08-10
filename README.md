@@ -34,7 +34,6 @@ This project is a front-end design clone that visually replicates Gmail's clean 
 
 ## 📂 Folder Structure
 
-```plaintext
 Gmail-UI-Clone/
 ├── index.html
 ├── style.css
